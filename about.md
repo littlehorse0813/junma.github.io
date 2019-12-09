@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Battery Algorithm Engineer @ Apple
 
-### More Information
+业余喜欢读书，健身，音乐和摄影
 
-A place to include any other types of information that you'd like to include about yourself.
+古典乐，爵士乐，摇滚乐杂食动物
+
+利物浦伪球迷
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[majun0813@gmail.com](mailto:email@domain.com)
